@@ -1,12 +1,10 @@
 <h1 align="center">Hi there, I'm Plekhanov Ivan</h1>
 
-#### LeetCode
-
-#### LeetCode
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Java+Kotlin+Golang)](https://git.io/typing-svg)
 
-[![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=IvanPlekhanov&theme=dark)](https://leetcode.com/PlekhanovIA/)
+#### LeetCode
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=PlekhanovIA&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 - 🔭 I’m currently working on **TrainerConnectAPP**
 - 🌱 I’m learning **Microservices Architecture** and **Cloud Technologies**
