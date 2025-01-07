@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Java+Kotlin+Golang)](https://git.io/typing-svg)
 
-[![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=IvanPlekhanov&theme=dark)](https://leetcode.com/u/PlekhanovIA/)
+[![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=IvanPlekhanov&theme=dark)](https://leetcode.com/PlekhanovIA/)
 
 - 🔭 I’m currently working on **TrainerConnectAPP**
 - 🌱 I’m learning **Microservices Architecture** and **Cloud Technologies**
