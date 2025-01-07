@@ -1,8 +1,6 @@
 
 <h1 align="center">Hi there, I'm Plekhanov Ivan</a> 
 
-<h3 align="center">Golang Backend Developer from Russia 🇷🇺</h3>
-
 
 #### LeetCode
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=PlekhanovIA&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
